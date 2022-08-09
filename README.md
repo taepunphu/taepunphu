@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on .NET/.NET Core/Next.JS
 - 🌱 I’m currently learning Go
 - 💬 Ask me about anything related to Javascript/Typescript or Angular/React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 📊 &nbsp;**This week I spent my time on**
 
