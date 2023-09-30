@@ -1,8 +1,7 @@
 ### Hi there, I'm Tae Kiattisak 👋
 
-- 🔭 I’m currently working on .NET/.NET Core/Next.JS
-- 🌱 I’m currently learning Go
-- 💬 Ask me about anything related to Javascript/Typescript or Angular/React
+- 🔭 I’m currently working on C#.NET/Next.js/Vue.js
+- 🌱 I’m currently learning Go and Node.js
 
 📊 &nbsp;**This week I spent my time on**
 
