@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tae Kiattisak 👋
 
 - 🔭 I’m currently working on .NET/.NET Core/Next.JS
 - 🌱 I’m currently learning Go
