@@ -1,6 +1,6 @@
 ### Hi there, I'm Tae Kiattisak 👋
 
-- 🔭 I’m currently working on Back-End Development (C# .NET)
+- 🔭 I’m currently working on Software Developer (C# .NET)
 - 🌱 I’m currently learning Go, Swift, Cloud and Rust
 
 📊 &nbsp;**This week I spent my time on**
